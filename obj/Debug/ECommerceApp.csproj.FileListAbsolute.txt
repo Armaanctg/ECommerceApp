@@ -1,0 +1,9 @@
+I:\ECommerceApp\bin\Debug\ECommerceApp.exe.config
+I:\ECommerceApp\bin\Debug\ECommerceApp.exe
+I:\ECommerceApp\bin\Debug\ECommerceApp.pdb
+I:\ECommerceApp\obj\Debug\ECommerceApp.csprojAssemblyReference.cache
+I:\ECommerceApp\obj\Debug\ECommerceApp.Properties.Resources.resources
+I:\ECommerceApp\obj\Debug\ECommerceApp.csproj.GenerateResource.cache
+I:\ECommerceApp\obj\Debug\ECommerceApp.csproj.CoreCompileInputs.cache
+I:\ECommerceApp\obj\Debug\ECommerceApp.exe
+I:\ECommerceApp\obj\Debug\ECommerceApp.pdb
